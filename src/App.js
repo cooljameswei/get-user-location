@@ -21,7 +21,7 @@ function App() {
     <>
       <h1>Hi</h1>
       {
-        country === 'Russia' ?
+        country === 'India' ?
         <Home />
         : <Foreigner />
       }
